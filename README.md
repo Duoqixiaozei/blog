@@ -1,2 +1,4 @@
 # blog
-downlo blog
+DuoQiXiaoZei的博客可以下载啦！
+一键下载然后解压到自己的文件夹里
+部署到时候b站或者博客会更新
