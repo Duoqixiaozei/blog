@@ -6,7 +6,7 @@ tags:
 	- CTF
 categories: CTF
 description: 「如需访问请联系夺旗小贼」
-password: 802300
+password: *****
 message: 「输入密码」
 ---
 # 大家好，我是小旗，大家有所不知，其实我自称“夺旗怪”，就我小旗就给大家如何夺取这个网站的flag
